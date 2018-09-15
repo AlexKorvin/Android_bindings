@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidBindings</string>
+
+    <!--Split Tunneling-->
+    <string name="split_tunneling_title">Split tunnelling</string>
+    <string name="split_tunneling_description">Split tunnelling allows you to control which apps use the VPN tunnel. New apps that you install will automatically use the VPN tunnel.</string>
+    <string name="split_tunneling_turn_on_all">TURN ON ALL</string>
+    <string name="split_tunneling_turn_off_all">TURN OFF ALL</string>
+</resources>
